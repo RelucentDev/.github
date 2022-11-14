@@ -3,7 +3,7 @@
 We are a software and web solution design and development company, built on the ideology of an interconnected future.
 We work hand-in-hand with businesses to build and curate the software and applications that they need to let their operations flow smoothly and without interruption. ✨
 
-## Our work and Case Studies
+## Our work & Case Studies
 
 - **Sassy Succulents** 🪴\
   We're currently working with Sassy Succulents to create a powerful eCommerce website to help boost their small business.
