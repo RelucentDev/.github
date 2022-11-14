@@ -5,9 +5,9 @@ We work hand-in-hand with businesses to build and curate the software and applic
 
 ## Our work & Case Studies
 
-- **Sassy Succulents** 🪴\
-  We're currently working with Sassy Succulents to create a powerful eCommerce website to help boost their small business. [Read More](https://relucent.dev/case-studies/sassy-succulents).
-- **The Derby Inn** 🍷\
-  We worked with The Derby Inn to create a website that fitted their requirements better than a simple pre-built template. We managed to reduce their hosting costs by 70% and moved their website, technically, onto the latest technologies for performance. [Read More](https://relucent.dev/case-studies/the-derby-inn).
+- [**Sassy Succulents**](https://relucent.dev/case-studies/sassy-succulents) 🪴\
+  We're currently working with Sassy Succulents to create a powerful eCommerce website to help boost their small business.
+- [**The Derby Inn**](https://relucent.dev/case-studies/the-derby-inn) 🍷\
+  We worked with The Derby Inn to create a website that fitted their requirements better than a simple pre-built template. We managed to reduce their hosting costs by 70% and moved their website, technically, onto the latest technologies for performance.
 
 > Read more at [relucent.dev/case-studies](https://relucent.dev/case-studies).
