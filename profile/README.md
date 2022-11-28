@@ -5,6 +5,8 @@ We work hand-in-hand with businesses to build and curate the software and applic
 
 ## Our work & Case Studies
 
+- [**Emma's Cake Creations**](https://relucent.dev/case-studies/) 🍰 \
+  We're currently working with Emma's Cake Creations to create a beautiful and sleek gallery website to highlight the fantastic bespoke cakes that they make, to help boost their small business.
 - [**Sassy Succulents**](https://relucent.dev/case-studies/sassy-succulents) 🪴\
   We're currently working with Sassy Succulents to create a powerful eCommerce website to help boost their small business.
 - [**The Derby Inn**](https://relucent.dev/case-studies/the-derby-inn) 🍷\
