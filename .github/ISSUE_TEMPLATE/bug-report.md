@@ -42,3 +42,7 @@ e.g.
 <!--
 Please copy and paste relevant log output(s).
 -->
+
+```bash
+(Log Outputs)
+```
