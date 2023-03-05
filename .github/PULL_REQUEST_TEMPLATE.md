@@ -7,11 +7,7 @@ Thanks for submitting a Pull Request!
 We appreciate you spending the time to work on these changes.
 
 Please ensure that you have read our Contributing Guide and Code of Conduct.
--->
 
-## Summary
-
-<!--
 What changes have you made?
 Try to include the following when possible:
 - Any screenshots (before/after etc.)
