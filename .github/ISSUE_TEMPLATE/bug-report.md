@@ -37,10 +37,11 @@ e.g.
 4. See error...
 -->
 
-## Relevant Log Outputs
+## Relevant Log Outputs (OPTIONAL)
 
 <!--
-Please copy and paste relevant log output(s).
+Please copy and paste relevant log output(s). This could be from the browser
+console or server-side logs.
 -->
 
 ```bash
