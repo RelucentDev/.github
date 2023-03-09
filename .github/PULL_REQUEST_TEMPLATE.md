@@ -1,7 +1,3 @@
----
-title: Pull Request Template
----
-
 <!--
 Thanks for submitting a Pull Request!
 We appreciate you spending the time to work on these changes.
@@ -14,6 +10,11 @@ Try to include the following when possible:
 - Links to appropriate issues (such as "Fixes #[issue]" or "Related to #[issue]")
 - Platforms and environments that your changes have been tested on (and their environments).
 -->
+
+```diff
++ addition
+- removal
+```
 
 ## Checklist
 
