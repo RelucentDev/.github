@@ -7,7 +7,6 @@ Try to include the following when possible:
 - Platforms and environments that your changes have been tested on (and their environments).
 -->
 
-
 ## Checklist
 
 <!-- Remove items that do not apply. For completed items, change [ ] to [x]. -->
