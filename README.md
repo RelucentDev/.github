@@ -1,4 +1,4 @@
-# [![Relucent Logo on a colourful background](/profile/relucent-grainy-gradient-logo.png)](https://relucent.dev)
+# [![Relucent Logo on a colourful background](/profile/cover.png)](https://relucent.dev)
 
 We are a software and web solution design and development company, built on the
 ideology of an interconnected future. We work hand-in-hand with businesses to
@@ -8,4 +8,4 @@ operations flow smoothly and without interruption. ✨
 This repository contains community health files, workflow starters, reusable
 workflows and our profile README.
 
-> See our [other work on GitHub](https://github.com/Relucent-Software). 🚀
+> See our [other work on GitHub](https://github.com/RelucentDev). 🚀
