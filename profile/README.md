@@ -1,4 +1,4 @@
-# [![Relucent Logo on a colourful background](cover.png)](https://relucent.dev)
+# [![Relucent Logo on a colourful background](/profile/cover.png)](https://relucent.dev)
 
 We are a software and web solution design and development company, built on the
 ideology of an interconnected future. We work hand-in-hand with businesses to
