@@ -8,4 +8,4 @@ operations flow smoothly and without interruption. ✨
 This repository contains community health files, workflow starters, reusable
 workflows and our profile README.
 
-> See our [other work on GitHub](https://github.com/RelucentDev). 🚀
+> See our [other work on GitHub](https://go.relucent.dev/c/gh). 🚀
