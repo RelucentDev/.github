@@ -8,9 +8,8 @@ assignees: ""
 
 <!--
 By submitting this issue, you agree to follow our Contributing Guidelines & Code of Conduct.
--->
-
 Thank you for taking the time to fill out this bug report!
+-->
 
 ## Expected Behaviour
 
