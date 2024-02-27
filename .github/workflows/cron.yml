@@ -1,0 +1,11 @@
+name: Check Scheduled
+
+on:
+  push:
+  schedule:
+    - cron: "30 8 * * 1"
+
+jobs:
+  check-links:
+    uses: RelucentDev/governance/.github/workflows/check-links.yml@main
+    secrets: inherit
